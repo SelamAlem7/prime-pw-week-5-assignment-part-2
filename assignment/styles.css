@@ -9,10 +9,35 @@ h2{
   color: plum;
 }
 
-.output {
+.output{
   background-color: lightGray;
   margin-left: 1em;
 }
+
+.questions{
+  align: center;
+  width: 6in;
+  height: 6in;
+  background-color: #f0f8ff;
+  border-width: 10px;
+  border-style: double;
+  border-radius: 70px;
+  color: MediumOrchid;
+  font-size: 20px;
+}
+
+h3{
+  text-align: left;
+  color: black;
+}
+
+li{
+  text-align: justify;
+  text-justify: inter-character;
+  color: DarkSlateBlue;
+}
+
+
 
 body {
  background-image: url("record.png");
