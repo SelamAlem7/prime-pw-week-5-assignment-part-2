@@ -1,3 +1,22 @@
+header{
+  background-color: DarkSlateBlue;
+  text-align: center;
+}
 h1 {
-  color: blue;
+  color: MediumPurple;
+}
+h2{
+  color: plum;
+}
+
+.output {
+  background-color: lightGray;
+  margin-left: 1em;
+}
+
+body {
+ background-image: url("record.png");
+ background-repeat: inherit;
+ background-color: PowderBlue;
+ margin: 0px;
 }
